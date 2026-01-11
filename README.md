@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Gitops Controller
+# BlackRoad GitOps Controller
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Kubernetes GitOps with automatic sync, drift detection, and multi-cluster support.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-gitops-controller.sh
-```
+- **Git as Source** - Declarative infrastructure
+- **Auto-Sync** - Continuous reconciliation
+- **Drift Detection** - Alert on manual changes
+- **Multi-Cluster** - Manage many clusters
+- **RBAC** - Fine-grained access control
+- **Rollback** - Git-based rollback
 
-## 🎨 BlackRoad Design System
+## Supported Resources
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+Kubernetes manifests, Helm charts, Kustomize, CRDs
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
